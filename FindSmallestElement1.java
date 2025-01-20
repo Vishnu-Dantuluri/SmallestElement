@@ -2,7 +2,7 @@ public class FindSmallestElement1
 {
 public static void main(String[] args)
 {
-int a[]={99,4,33,9,19};
+int a[]={100,200,4,6,77,23,11};
 int min=a[0];
 for(int i=0;i<a.length;i++)
 {
